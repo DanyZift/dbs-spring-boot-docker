@@ -1,1 +1,1 @@
-[Developer Setup](./developers.md)
+[Developer Setup](developer_setup.md)
